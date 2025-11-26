@@ -29,6 +29,6 @@ This repository demonstrates practical applications of various search algorithms
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/Real-World-Problems-Search-Algorithms.git
+git clone https://github.com/eyobbegashaw/Real-World-Problems-Search-Algorithms.git
 cd Real-World-Problems-Search-Algorithms
 pip install -r requirements.txt
