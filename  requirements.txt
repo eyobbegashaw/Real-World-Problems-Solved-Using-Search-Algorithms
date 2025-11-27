@@ -1,0 +1,4 @@
+# No external dependencies required for basic functionality
+# Optional for advanced features:
+# matplotlib>=3.5.0
+# networkx>=2.6.3
